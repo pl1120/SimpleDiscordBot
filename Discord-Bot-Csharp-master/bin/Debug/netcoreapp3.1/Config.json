@@ -1,0 +1,13 @@
+﻿{
+
+"version": "1.0",
+"token": "MTAzOTU4NDAxMTk5NzE3MTczNg.GxdPwH.CfHkcogsns_t4j8aAIAIoK37z8SvpSK6oYZjVQ",
+
+"prefixes": ["~"],
+"join_message": "Hello gamers! :wave:",
+
+"currently": "playing|listening|watching|streaming",
+"playing_status": "A hunger game.",
+"status": "online|dnd|idle|offline"
+
+}
